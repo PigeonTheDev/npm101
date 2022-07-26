@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "npm101",
+  "version": "1.0.0",
+  "description": "My first npm project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src\\index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ulaş",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
